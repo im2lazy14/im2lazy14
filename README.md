@@ -1,6 +1,6 @@
 Audio Engineer  
 Rally Driver  
-Guitarist
+Guitarist  
 Once made over 170 wings in an hour for South Bronx wings eating competition :-
 
 <!---
