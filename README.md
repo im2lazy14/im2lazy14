@@ -1,7 +1,6 @@
-Audio Engineer  
-Rally Driver  
-Guitarist  
-Once made over 170 wings in an hour for South Bronx wings eating competition
+College Junior
+Aspiring Engineer
+Guitarist
 
 <!---
 im2lazy14/im2lazy14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
