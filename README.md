@@ -1,5 +1,5 @@
-College Junior\n
-Aspiring Engineer\n
+College Junior<br/>
+Aspiring Engineer<br/>
 A dumping ground for various projects completed throughout college now that I have time to spare
 
 <!---
